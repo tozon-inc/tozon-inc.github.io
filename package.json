@@ -1,0 +1,14 @@
+{
+  "name": "tozon-inc.github.io",
+  "version": "1.0.0",
+  "description": "Github Pages for organization.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tozon"
+  ],
+  "author": "katusiime conrad",
+  "license": "ISC"
+}
